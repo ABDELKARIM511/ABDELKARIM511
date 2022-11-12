@@ -4,6 +4,5 @@
 So for that, I choosed to have my first internship with Argyre Technology Services as a full-stack web developer, using Angular and expressJs.</br>
 <ul>
   <li>Full-stack web developer.</li>
-  <li>Member of "1337 blockchaine developers group" and blockchain enthusiast.</li>
 </ul>
 <label><i>they call me "weak" in arabic "ada3if".<i></label>
