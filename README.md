@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm ABDELKARIM ER-RAZKI</h1>
-<h3>Throughout my academic journey, I have been fascinated by coding low-level programs and working with the C programming language. However, I have also been eager to broaden my knowledge in web development. Therefore, I chose to complete my first internship with Argyre Technology Services as a full-stack web developer, using Angular and ExpressJS.
-I am on a journey to master Web3 and the Solidity programming language, and my intern experience and strong foundation in low-level programming have prepared me for success. My passion for continuous learning drives me to keep learning and growing in my understanding of these technologies.
-I am inspired by the potential of Web3 to change the world and create new opportunities for developers. I am excited to be a part of the growing community of developers and enthusiasts who are dedicated to advancing the capabilities of the Ethereum blockchain. Together, we can make a positive impact on industries and create a brighter future.</h3>
+<h3>As I embark on my journey in the world of technology, I am excited to explore the endless possibilities of coding and web development. My passion for programming, specifically in C, has led me to seek out opportunities to learn and grow in this field. When I was offered the chance to intern with Argyre Technology Services as a full-stack web developer using Angular and ExpressJS, I knew it was the perfect opportunity to expand my skills and knowledge.
+
+But my journey doesn't stop there. I am determined to master Web3 and the Solidity programming language, and my intern experience has given me a strong foundation to build upon. I am motivated by my love of learning and my desire to be at the forefront of the growing community of developers working to advance the Ethereum blockchain and the capabilities of Web3.
+
+I am inspired by the potential of these technologies to change the world and create new opportunities for developers like myself. I am excited to be a part of this movement and to continue learning and growing as a developer on this incredible journey.</h3>
 
 - 🔭 I’m currently working on **Voting3.0**
 
