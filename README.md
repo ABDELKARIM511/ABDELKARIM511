@@ -1,6 +1,4 @@
 <h1>Hi 👋, I'm ABDELKARIM ER-RAZKI</h1>
-![](https://github.com/abdelkarimer-razki/abdelkarimer-razki/blob/main/giphy.gif)
-
 <p style="font-size:18px;">As I embark on my journey in the world of technology, I am excited to explore the endless possibilities of coding and web development. My passion for programming, specifically in C, has led me to seek out opportunities to learn and grow in this field. When I was offered the chance to intern with Argyre Technology Services as a full-stack web developer using Angular and ExpressJS, I knew it was the perfect opportunity to expand my skills and knowledge.
 
 But my journey doesn't stop there. I am determined to master Web3 and the Solidity programming language, and my intern experience has given me a strong foundation to build upon. I am motivated by my love of learning and my desire to be at the forefront of the growing community of developers working to advance the Ethereum blockchain and the capabilities of Web3.
