@@ -4,6 +4,7 @@
 But my journey doesn't stop there. I am determined to master Web3 and the Solidity programming language, and my intern experience has given me a strong foundation to build upon. I am motivated by my love of learning and my desire to be at the forefront of the growing community of developers working to advance the Ethereum blockchain and the capabilities of Web3.
 
 I am inspired by the potential of these technologies to change the world and create new opportunities for developers like myself. I am excited to be a part of this movement and to continue learning and growing as a developer on this incredible journey.</p>
+<img src="https://github.com/abdelkarimer-razki/abdelkarimer-razki/blob/main/giphy.gif" width="400" />
 <h2>My Work:</h2>
 <ul>
   <li style="font-size:18px;"><a href="https://github.com/abdelkarimer-razki/webserv">WebServ</a>: This project is about writing my own http sever from scratch using c++.</li>
